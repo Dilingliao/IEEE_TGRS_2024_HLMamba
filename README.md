@@ -36,4 +36,4 @@ If you find this paper useful, please cite:
 ```
 ****
 # Contact
-Diling Liao: [liaodling@mail2.sysu.edu.cn](VX:3097264896)
+Diling Liao: [liaodling@mail2.sysu.edu.cn][VX:3097264896]
