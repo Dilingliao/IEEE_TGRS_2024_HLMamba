@@ -11,11 +11,11 @@ was acquired in November 2010 over the area of the campus of University of South
 This dataset was collected in a rural area of Trento in southern Italy and includes both HSI and LiDAR datasets. The spatial size is 166 × 600 pixels, with a spatial resolution of 1 m. The HSI data spans a wavelength range of 0.42 ~ 0.99 $\mu m$, containing 63 spectral bands. Additionally, the LiDAR data was obtained using a 3100EA sensor. This dataset contains 30,214 labeled samples across 6 types of land cover categories.
 ****
 # Dataset download
-Baidu Cloud link for Houston dataset: https://pan.baidu.com/s/13oovgQKaNQuoGrzKs1tP-g    pw：x7ah
+Baidu Cloud link for Houston dataset: https://pan.baidu.com/s/13oovgQKaNQuoGrzKs1tP-g.    pw：x7ah
 
-Baidu Cloud link for MUUFL dataset: https://pan.baidu.com/s/1rOx1g2Cju3Cvp4-vWwQRtA    pw：qw60
+Baidu Cloud link for MUUFL dataset: https://pan.baidu.com/s/1rOx1g2Cju3Cvp4-vWwQRtA.    pw：qw60
 
-Baidu Cloud link for Trento dataset: https://pan.baidu.com/s/1inM-D7YZW803I1cj5W0dgA   pw：bzih
+Baidu Cloud link for Trento dataset: https://pan.baidu.com/s/1inM-D7YZW803I1cj5W0dgA.   pw：bzih
 
 # Train HLMamba
 ``` 
