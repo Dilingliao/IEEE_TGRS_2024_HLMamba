@@ -10,7 +10,7 @@ was acquired in November 2010 over the area of the campus of University of South
 - [The Trento dataset](https://drive.google.com/drive/folders/1HK3eL3loI4Wd-RFr1psLLmVLTVDLctGd )
 This dataset was collected in a rural area of Trento in southern Italy and includes both HSI and LiDAR datasets. The spatial size is 166 × 600 pixels, with a spatial resolution of 1 m. The HSI data spans a wavelength range of 0.42 ~ 0.99 $\mu m$, containing 63 spectral bands. Additionally, the LiDAR data was obtained using a 3100EA sensor. This dataset contains 30,214 labeled samples across 6 types of land cover categories.
 ****
-# Environment
+# Environment(Linux)
 CUDA = 11.8 
 
 Pytorch = 2.1.1
