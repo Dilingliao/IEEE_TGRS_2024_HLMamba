@@ -12,7 +12,9 @@ This dataset was collected in a rural area of Trento in southern Italy and inclu
 ****
 # Environment
 CUDA = 11.8 
+
 Pytorch = 2.1.1
+
 pip install mamba_ssm
 
 # Dataset download
